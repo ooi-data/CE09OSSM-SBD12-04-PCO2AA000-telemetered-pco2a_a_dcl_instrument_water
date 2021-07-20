@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-SBD12-04-PCO2AA000-telemetered-pco2a_a_dcl_instrument_water
 data_stream: CE09OSSM-SBD12-04-PCO2AA000-telemetered-pco2a_a_dcl_instrument_water
 end_date: '2021-07-06T22:00:03.488Z'
-last_updated: '2021-07-20T16:40:53.076847Z'
+last_updated: '2021-07-20T16:42:56.085809'
 start_date: '2015-04-09T17:30:00.000Z'
-status: pending
+status: success
