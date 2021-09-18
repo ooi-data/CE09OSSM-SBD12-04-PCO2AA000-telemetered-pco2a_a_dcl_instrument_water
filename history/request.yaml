@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSSM-SBD12-04-PCO2AA000-telemetered-pco2a_a_dcl_instrument_water
 last_request: '2021-09-17T23:24:21.014085Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD12-04-PCO2AA000-telemetered-pco2a_a_dcl_instrument_water/main/history/response.json
-status: pending
+status: success
